@@ -39,6 +39,14 @@ body {
     
 }
  
+.transparent {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(1.jpg);
+}
+
  /*login*/
 
  /*sign up modal*/
