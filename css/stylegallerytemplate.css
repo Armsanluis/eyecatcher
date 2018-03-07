@@ -273,6 +273,27 @@ img.hover-shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+
+#headtitle {
+  text-align: center;
+}
+
+#headtitle1 {
+  text-align: center;
+}
+
+#headtitle2 {
+  text-align: center;
+}
+
+#headtitle3 {
+  text-align: center;
+}
+
 #galleryL {
   margin-bottom: 100px;
+}
+
+#marg {
+  margin-bottom: 16px;
 }

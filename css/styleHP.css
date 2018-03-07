@@ -12,6 +12,9 @@ body, html {
 
 }
 
+#burger {
+    color: black;
+}
 #lg {
     color: grey;
 }
@@ -388,6 +391,7 @@ hr {
     width: 800px;
     margin: 0 auto;
     margin-bottom: 25px;
+    position: relative;
 }
 
 #abouts {
@@ -401,4 +405,10 @@ hr {
 }
 #abouts3 {
 	background-color:white;
+}
+
+#ft {
+
+    margin: 0 auto;
+    bottom: 2%;
 }
